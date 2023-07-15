@@ -1,7 +1,7 @@
 # Bank-Good-Credit
 Problem Statement : Bank GoodCredit wants to predict cred score for current credit card customers. The cred score will denote a customer’s credit worthiness and help the bank in reducing credit default risk. 
 
-Project Goal :
+Project Goal:
 
 1. Data exploration insights – what did you find and what decision did you take?
 
